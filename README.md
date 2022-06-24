@@ -41,6 +41,7 @@ Note: ONLY ONE process is allowed to use the resource at a time. If a process re
 
 ## Queues
 • Ready Queue: For the processes currently waiting to be chosen to execute on the processor
+
 • Blocked Queue: For the processes currently waiting for resources to be available
 
 ## Memory Management
